@@ -1,9 +1,10 @@
 # PUI2017_bc1561
 
+add pictures to the readme
 
-![alt text](./images/Screenshot from 2017-09-15 14-54-58.png "first image")
+## first screenshot (environmental variable)
 
 
-![alt text](./images/Screenshot from 2017-09-15 15-05-34.png "first image")
-
-![alt text](./images/Screenshot from 2017-09-15 15-06-08.png "first image")
+![Alt text](images/screenshot1.png)
+![Alt text](images/screenshot2.png)
+![Alt text](images/screenshot3.png)
