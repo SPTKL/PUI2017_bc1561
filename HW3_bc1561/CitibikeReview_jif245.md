@@ -1,3 +1,5 @@
+### By Julián Ferreiro (jif245)
+
 ### a. verify that their Null and alternative hypotheses are formulated correctly
 
 From what I understand, his hypothesis is that tourists/customers use bikes for longer periods of time than 
