@@ -8,6 +8,8 @@ The Null Hypothesis is correctly expresed in the sentence. The ratio of people r
 
 In the mathematical formulation I think it looks like it's reversed. The formula doesn't render correctly, and after reloading the markdown code, it looks like is inverted.
 
+# FBB the formula does not render, but you are correct I think it is reversed. The correct null if you think custumers go on  *longer* rides is that riders go on  _shorter_ rides.
+
 ### b. verify that the data supports the project
 
 The data was correctly wrangled. He constructed a table with the amounts of people in each group leaving the 
