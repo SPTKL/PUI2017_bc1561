@@ -62,3 +62,8 @@ SQL lab [Instructions](https://serv.cusp.nyu.edu/~hvo/files/SQL_Lab.pdf)
 
 return the lab as a jupyter notebook using the [SQL_query notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW7_fb55/SQL_query.ipynb) to start (in this repo) and submitting the sql queries through the carto API
 
+#################################################
+
+#### following sql instructions and completing the 4 tasks, I worked with Gerardo
+
+#### haven't had the time to finish the authorea task yet because of the conference, but will in the future. 
