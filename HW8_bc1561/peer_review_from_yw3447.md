@@ -3,7 +3,7 @@
 
 ## Review plot of bc1561
 
-![Alt text](screenshots/hiv_race.png)
+![Alt text](hiv_race.png)
 **Plot of reported AIDS cases in the US (1981 - 2012)**
 
 **Review:**
