@@ -14,3 +14,8 @@ In class I mentioned JVP Seattle bike-share analysis (now optional reading) as t
 **Turn in as a notebook on your repo, as usual**, you can work in groups as usual, have a statement of the work balance in the group as usual.
 
 
+## Note:
+
+I collaborated with Unisse on task 3, she helped me to figure out how to make the plots and make sense of the fourier transformation
+
+I also worked with Marium, I was trying to help her with task 1
