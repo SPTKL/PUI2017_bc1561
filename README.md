@@ -1,6 +1,6 @@
-# PUI2017_bc1561
+# Principle of Urban Informatics 2017 
 
-### This is the class homework respository for Baiyue Cao (bc1561)
+### This is a class homework respository for Baiyue Cao (bc1561)
 
 #### Description: 
 This class covers the basics of data-driven urban research. I aquired computational skills, basic knowledge of statistical analysis, error analysis, good practises for handling data and big-data, and communication and visualization skills. I learned how to formulate a question relevant to Urban Science, how to find an appropriate data to answer the question, prepare and analyze the data, get an answer, to whichever confidence level, and communicate my answer, and my confidence level in the answer. 
